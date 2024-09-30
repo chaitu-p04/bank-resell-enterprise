@@ -37,22 +37,24 @@ MySQL
 Eclipse EE
 Java JDK 8+
 Tomcat v8.0
-Apache Maven
+
 SCHEMA DIAGRAM:
 
-https://drive.google.com/file/d/1OOOaN0OxanCtgBSslX6RugrCmxI-Qwwu/view?usp=drivesdk
+![schema](https://github.com/user-attachments/assets/4717caf3-c431-4c0e-9281-70a78ad01566)
 
 OUTPUT:
 
 HOME PAGE:
+![Home page](https://github.com/user-attachments/assets/7b84f53c-1459-4621-9896-2a14a8c57883)
 
-https://drive.google.com/file/d/1OvFbD1nrBIjJItY1xbVY649IRUc3b_F_/view?usp=drivesdk
+REGISTER NEW VENDOR:
+![Register](https://github.com/user-attachments/assets/96976f5b-a3eb-4945-bc98-138be1d42067)
 
-https://drive.google.com/file/d/1OUuj9u0YZoItRg_LWue-6YxCiRvLUvG9/view?usp=drivesdk
+VENDOR LOGIN:
+![Vendor Login](https://github.com/user-attachments/assets/1f93bb29-3042-4a4b-88db-c88b3615aa36)
 
-https://drive.google.com/file/d/1OefsCnX0U8TniCtF59S2UsfoPBpju1hp/view?usp=drivesdk
-
-https://drive.google.com/file/d/1OneuIjgsxVIe6ny8xDtSVA0B3N8-1dig/view?usp=drivesdk
+ADMIN VIEW VENDORS:
+![Vendors](https://github.com/user-attachments/assets/086db859-c0a4-4160-98c4-ff5e98f07f14)
 
 
 
